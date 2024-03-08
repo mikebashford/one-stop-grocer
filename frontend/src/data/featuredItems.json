@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Avocado",
+    "image": "/images/avocado.png",
+    "price": "1.50",
+    "salePrice": "1",
+    "category": "Fruits"
+  },
+  {
+    "id": 2,
+    "name": "Butter",
+    "image": "/images/butter.png",
+    "price": "2",
+    "salePrice": "1",
+    "category": "Dairy"
+  },
+  {
+    "id": 3,
+    "name": "Milk",
+    "image": "/images/milk.png",
+    "price": "3",
+    "salePrice": "1.50",
+    "category": "Dairy"
+  }
+]

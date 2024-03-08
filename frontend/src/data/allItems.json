@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Avocado",
+    "image": "/images/avocado.png",
+    "price": "1.50",
+    "salePrice": "1",
+    "category": "Fruits"
+  },
+  {
+    "id": 2,
+    "name": "Butter",
+    "image": "/images/butter.png",
+    "price": "2",
+    "salePrice": "1",
+    "category": "Dairy"
+  },
+  {
+    "id": 3,
+    "name": "Milk",
+    "image": "/images/milk.png",
+    "price": "3",
+    "salePrice": "1.50",
+    "category": "Dairy"
+  },
+  {
+    "id": 4,
+    "name": "Cheese",
+    "image": "/images/cheddar.png",
+    "price": "4",
+    "salePrice": "3.50",
+    "category": "Dairy"
+  },
+  {
+    "id": 5,
+    "name": "Eggs",
+    "image": "/images/eggs.png",
+    "price": "4",
+    "salePrice": "3.50",
+    "category": "Dairy"
+  },
+  {
+    "id": 6,
+    "name": "Cereal",
+    "image": "/images/cereal.png",
+    "price": "3",
+    "salePrice": "2.50",
+    "category": "Cereals"
+  },
+  {
+    "id": 7,
+    "name": "Bananas",
+    "image": "/images/banana.png",
+    "price": "1",
+    "salePrice": ".33",
+    "category": "Fruits"
+  },
+  {
+    "id": 8,
+    "name": "Cabbage",
+    "image": "/images/cabbage.png",
+    "price": "1",
+    "salePrice": ".50",
+    "category": "Fruits"
+  },
+  {
+    "id": 9,
+    "name": "Chicken",
+    "image": "/images/chicken.png",
+    "price": "5.99",
+    "salePrice": "4.50",
+    "category": "Meat"
+  },
+  {
+    "id": 10,
+    "name": "Beef",
+    "image": "/images/ground-beef.png",
+    "price": "3.99 ",
+    "salePrice": "2.99 ",
+    "category": "Meat"
+  },
+  {
+    "id": 11,
+    "name": "foil",
+    "image": "/images/foil.png",
+    "price": "4",
+    "salePrice": "3.50",
+    "category": "Household"
+  },
+  {
+    "id": 12,
+    "name": "Toilet Paper",
+    "image": "/images/toilet-paper.png",
+    "price": "12.99",
+    "salePrice": "11.99",
+    "category": "Household"
+  },
+  {
+    "id": 13,
+    "name": "Kettle Chips",
+    "image": "/images/kettle-chips.png",
+    "price": "3",
+    "salePrice": "1.50",
+    "category": "Snacks"
+  },
+  {
+    "id": 14,
+    "name": "Laundry Detergent",
+    "image": "/images/laundry-detergent.png",
+    "price": "19.99",
+    "salePrice": "17.99",
+    "category": "Snacks"
+  },
+  {
+    "id": 15,
+    "name": "Peanut Butter",
+    "image": "/images/peanut-butter.png",
+    "price": "3.99",
+    "salePrice": "3.49",
+    "category": "Pantry"
+  },
+  {
+    "id": 16,
+    "name": "Pork Chops",
+    "image": "/images/pork-chop.png",
+    "price": "5.49",
+    "salePrice": "4.99",
+    "category": "Meat"
+  },
+  {
+    "id": 17,
+    "name": "Russet Potatoes",
+    "image": "/images/russet-potatoes.png",
+    "price": "3.99",
+    "salePrice": "3.49",
+    "category": "Fruits"
+  },
+  {
+    "id": 18,
+    "name": "Sockeye Salmon",
+    "image": "/images/sockeye-salmon.png",
+    "price": "18.99",
+    "salePrice": "16.99",
+    "category": "Meat"
+  },
+  {
+    "id": 19,
+    "name": "Tuna",
+    "image": "/images/tuna.png",
+    "price": "2",
+    "salePrice": "1.50",
+    "category": "Canned Goods"
+  },
+  {
+    "id": 20,
+    "name": "Trash Bags",
+    "image": "/images/trash-bags.png",
+    "price": "9.99",
+    "salePrice": "8.99",
+    "category": "Household"
+  }
+]
