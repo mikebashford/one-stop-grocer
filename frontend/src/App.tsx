@@ -8,13 +8,14 @@ import { ShoppingCartProvider } from "./utils/shoppingCart.tsx";
 
 function App() {
   const [currentUser, setCurrentUser] = useState({});
+  const endPoint = `${"http://127.0.0.1:8000/api"}`;
 
   const onUpdate = () => {
     fetchUsers();
   };
 
   const fetchUsers = async () => {
-    const res = await fetch("http://127.0.0.1:8000/api/users");
+    const res = await fetch(`${endPoint}/users`);
     const data = await res.json();
     setCurrentUser(data.users);
     console.log(data.users);

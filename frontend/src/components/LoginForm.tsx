@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react";
-export default function LoginForm({ existingUser = {}, updateCallback }) {
-  const [email, setEmail] = useState(existingUser.email || "");
-  const [password, setPassword] = useState(existingUser.password || "");
+export default function LoginForm() {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   return (
     <div className="w-full max-w-lg">
       <form className="bg-green-700 shadow-md rounded-3xl p-12 mt-8" action="">
